@@ -142,6 +142,7 @@ color:coral;
     justify-content: center;
     align-items: flex-start;
     background-repeat: no-repeat;
+animation: pulse 5s infinite;
 }
 #home span {
 
